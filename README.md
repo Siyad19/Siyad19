@@ -77,15 +77,15 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 [AI YouTube Learning Assistant](https://github.com/Siyad19)
+#### 🔹 [AI YouTube Learning Assistant](https://github.com/Siyad19/YouTube-Learning-Assistant)
 An AI assistant that summarizes YouTube videos and answers questions using transcript-based Retrieval-Augmented Generation (RAG). Built a vector search pipeline by chunking transcripts, generating embeddings, and storing them in a FAISS vector database, with LangGraph orchestrating multiple AI agents through conditional routing.
+
 `Python` `LangChain` `LangGraph` `FAISS` `HuggingFace Embeddings` `Streamlit` `Groq API`
 
-#### 🔹 [Agentic AI Resume Analyzer (CrewAI)](https://github.com/Siyad19)
+#### 🔹 [Agentic AI Resume Analyzer (CrewAI)](https://github.com/Siyad19/Agentic-AI-Resume-Analyzer-CrewAI)
 A multi-agent AI system built with CrewAI to automate resume analysis and career guidance — a Resume Analyzer agent extracts skills, experience, education, projects, certifications, and ATS insights, while a Career Advisor agent recommends improvements, missing skills, and learning roadmaps. Includes a Streamlit frontend for resume upload and role-specific insights, now with PDF export.
-`Python` `CrewAI` `Streamlit` `OpenRouter` `Serper API`
 
-> 💡 *Update the links above to point directly to each project's repo once they're live, and pin them on your GitHub profile for extra visibility.*
+`Python` `CrewAI` `Streamlit` `OpenRouter` `Serper API`
 
 ---
 
@@ -102,19 +102,6 @@ Built features, fixed bugs, and improved UI for cross-platform mobile apps; coll
 - IABAC — Artificial Intelligence Expert
 - IABAC — Data Science
 - AI Internship Certification, Datamites *(In Progress)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siyad19&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siyad19&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siyad19&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
