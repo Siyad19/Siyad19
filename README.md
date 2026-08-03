@@ -91,8 +91,8 @@ A multi-agent AI system built with CrewAI to automate resume analysis and career
 
 ### 💼 Experience
 
-**React Native Developer Intern** — Coder Boutique Private Limited *(Oct 2024 – Jan 2025)*
-Built features, fixed bugs, and improved UI for cross-platform mobile apps; collaborated with senior developers on API integration, state management, and performance — including work on a real-world dating app.
+#### AI & Data Science Intern — Rubixe AI Solutions (Jan 2025 – Jul 2025)
+Worked on real-world AI and data science projects involving machine learning, deep learning, and generative AI. Built predictive models, performed data preprocessing and analysis, and developed LLM-powered applications using LangChain, LangGraph, Retrieval-Augmented Generation (RAG), and Python. Gained hands-on experience in model evaluation, prompt engineering, and deploying AI solutions for practical use cases.
 
 ---
 
@@ -101,7 +101,7 @@ Built features, fixed bugs, and improved UI for cross-platform mobile apps; coll
 - NASSCOM — Artificial Intelligence Engineer
 - IABAC — Artificial Intelligence Expert
 - IABAC — Data Science
-- AI Internship Certification, Datamites *(In Progress)*
+- AI and Data Science Internship Certification, Rubixe - AI solution company
 
 ---
 
