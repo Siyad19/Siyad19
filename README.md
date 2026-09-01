@@ -13,7 +13,6 @@
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, NLP & Computer Vision**
 - 🧠 Currently building with **Agentic AI frameworks** — CrewAI, LangChain, LangGraph
 - 🔭 Recently built an **AI YouTube Learning Assistant** and an **Agentic AI Resume Analyzer**
-- 📱 Previously interned as a **React Native Developer**, working on cross-platform mobile apps
 - 🌱 Deepening my skills in Docker, GitHub Actions CI/CD, and MCP (Model Context Protocol) server development
 - 📍 Based in Bangalore, Karnataka
 - 📫 Reach me at: **siyads.shahul@gmail.com**
@@ -87,11 +86,17 @@ A multi-agent AI system built with CrewAI to automate resume analysis and career
 
 `Python` `CrewAI` `Streamlit` `OpenRouter` `Serper API`
 
+#### 🔹 [Autonomous AI Data Analyst](https://github.com/Siyad19/Autonomous-AI-Data-Analyst)
+
+An autonomous multi-agent AI system built with LangChain and LangGraph to analyze datasets using natural language — a Planner Agent routes user queries to specialized SQL, Python, and Visualization agents, which use DuckDB, Pandas, and Matplotlib to perform analysis and generate insights and visualizations. Includes a Streamlit frontend for CSV upload, dataset profiling, natural-language analysis, SQL querying, and dynamic chart generation.
+
+`Python` `LangChain` `LangGraph` `Streamlit` `OpenRouter` `DuckDB` `Pandas` `Matplotlib`
+
 ---
 
 ### 💼 Experience
 
-#### AI & Data Science Intern — Rubixe AI Solutions (Jan 2025 – Jul 2025)
+#### AI & Data Science Intern — Rubixe AI Solutions (Dec 2025 – Jul 2025)
 Worked on real-world AI and data science projects involving machine learning, deep learning, and generative AI. Built predictive models, performed data preprocessing and analysis, and developed LLM-powered applications using LangChain, LangGraph, Retrieval-Augmented Generation (RAG), and Python. Gained hands-on experience in model evaluation, prompt engineering, and deploying AI solutions for practical use cases.
 
 ---
@@ -100,6 +105,7 @@ Worked on real-world AI and data science projects involving machine learning, de
 
 - NASSCOM — Artificial Intelligence Engineer
 - IABAC — Artificial Intelligence Expert
+- IABAC — Certified Data Scientist
 - IABAC — Data Science
 - AI and Data Science Internship Certification, Rubixe - AI solution company
 
