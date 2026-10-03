@@ -14,7 +14,7 @@
 - 🧠 Currently building with **Agentic AI frameworks** — CrewAI, LangChain, LangGraph
 - 🔭 Recently built an **AI YouTube Learning Assistant** and an **Agentic AI Resume Analyzer**
 - 🌱 Deepening my skills in Docker, GitHub Actions CI/CD, and MCP (Model Context Protocol) server development
-- 📍 Based in Bangalore, Karnataka
+- 📍 From Kerala, based in Bangalore, Karnataka
 - 📫 Reach me at: **siyads.shahul@gmail.com**
 
 ---
